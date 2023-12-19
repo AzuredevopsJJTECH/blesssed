@@ -1,1 +1,2 @@
-ThIS IS FileA
+ThIS IS FileA.
+This is the first change
